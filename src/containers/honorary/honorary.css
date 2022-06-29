@@ -1,0 +1,185 @@
+.gpt3__honorary {
+    margin-top: 8rem;
+}
+
+.container1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-width: 100%;
+    margin: auto;
+    margin-top: -30rem;
+}
+
+.container {
+    background-color: var(--color-box1);
+    max-width: 30rem;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+}
+
+.text-honorary {
+    padding: 1rem;
+    margin-bottom: 5rem;
+    white-space: pre-line;
+}
+
+.text-rol {
+    font-family: var(--font-family);
+    margin-bottom: 5rem;
+    padding: 2rem;
+    white-space: pre-line;
+    margin-top: -2rem;
+    margin-left: 5rem;
+    background-color: white;
+}
+
+.image_honorary{
+    width: 90%;  
+    height: 90%;
+    padding-bottom: 5rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: -2;
+}
+
+.image_honorary2{
+    max-width: 30rem;
+    max-height: 20rem;
+}
+
+.image_honorary3{
+    max-width: 30rem;
+    max-height: 30rem;
+    margin: auto;
+}
+
+@media screen and (max-width: 1900px) {
+    .container1 {
+        margin-top: -20rem;
+    }
+}
+
+@media screen and (max-width: 1850px) {
+    .container {
+        max-width: 25rem;
+    }
+
+    .image_honorary2{
+        max-width: 25rem;
+        max-height: 20rem;
+    }
+    
+    .image_honorary3{
+        max-width: 25rem;
+        max-height: 30rem;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .container1 {
+        margin-top: -10rem;
+    }
+
+    .container {
+        max-width: 20rem;
+    }
+
+    .image_honorary2{
+        max-width: 20rem;
+        max-height: 20rem;
+    }
+    
+    .image_honorary3{
+        max-width: 20rem;
+        max-height: 30rem;
+        margin: auto;
+    }
+
+    
+}
+
+@media screen and (max-width: 990px) {
+    .gpt3__features {
+        flex-direction: column;
+    }
+
+    .gpt3__features-heading {
+        margin: 0 0 2rem 0;
+    }
+
+}
+
+@media screen and (max-width: 950px) {
+    .container {
+        max-width: 30rem;
+    }
+
+    .image_honorary{
+        width: 100%;  
+        height: 100%;
+    }
+
+    .image_honorary2{
+        max-width: 30rem;
+        max-height: 20rem;
+    }
+    
+    .image_honorary3{
+        max-width: 30rem;
+        max-height: 30rem;
+        margin: auto;
+    }
+
+    }
+
+    @media screen and (max-width: 750px) {
+
+        .container {
+            max-width: 20rem;
+        }
+    
+        .image_honorary2{
+            max-width: 20rem;
+            max-height: 20rem;
+        }
+        
+        .image_honorary3{
+            max-width: 20rem;
+            max-height: 30rem;
+            margin: auto;
+        }
+    
+        }
+
+
+@media screen and (max-width: 550px) {
+    .container1 {
+        margin-top: -8rem;
+    }
+    
+    .gpt3__features-heading h1 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    .container1 {
+        margin-top: 0rem;
+    }
+    
+    .gpt3__features-heading h1 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+
+    .image_honorary{
+      margin-top: -3rem;
+    }
+
+}

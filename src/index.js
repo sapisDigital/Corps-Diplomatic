@@ -1,17 +1,28 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
+import ReactDOM from 'react-dom';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './index.css';
+import i18next from 'i18next';
+import { I18nextProvider } from 'react-i18next';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+import es from "./translations/es/language.json";
+import en from "./translations/en/language.json";
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+i18next.init({
+    interpolation: {escapeValue: false},
+    lng: "en",
+    resources:{
+        es:{
+            language: es,
+        },
+        en:{
+            language: en,
+        },
+    },
+});
+
+ReactDOM.render(
+    <I18nextProvider i18n={i18next}>
+        <App /> 
+    </I18nextProvider>, 
+    document.getElementById('root'));

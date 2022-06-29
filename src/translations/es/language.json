@@ -1,0 +1,117 @@
+{
+    "header":{
+        "header-message":"Bienvenido",
+        "box1":"DIPLOMÁTICOS AUTÓNOMOS",
+        "box2":"PODEROSOS INNOVADORES SOCIALES QUE CAMBIAN EL MUNDO",
+        "box3":"*Grupo asesor sin fines de lucro"
+    },
+
+    "navbar":{
+        "home":"INICIO",
+        "aboutUs":"NOSOTROS",
+        "how":"CÓMO TRABAJAMOS",
+        "hononary":"SOCIOS HONORARIOS",
+        "be human":"SER HUMANO",
+        "events":"EVENTOS",
+        "news":"NOTICIAS",
+        "contacts":"CONTACTO E IMPRESO"
+    },
+
+    "about":{
+        "title":"Sobre nosotros",
+        "title1":"UN SALTO A LA HISTORIA",
+        "text1": "No sabemos cuándo las sociedades humanas sintieron por primera vez la necesidad de comunicarse entre sí, pero es seguro asumir que lo hicieron desde el principio.",
+        "title2":"EL CONGRESO DE VIENA",
+        "text2": "Un evento históricamente único en muchos aspectos, no solo desde el punto de vista técnico, sino también de una reunión ilegítima, como entendió el príncipe Metternich. El supuesto básico del que partió el evento fue: '¿Cómo podemos volver al sistema político anterior después del aplastamiento de la ideología mundial por parte de Napoleón?.' La diplomacia se había desarrollado constantemente como la forma en que los gobernantes soberanos se comunicaban entre sí.",
+        "title3":"LA EVOLUCIÓN DE LA DIPLOMACIA",
+        "text3":"Describe la historia de la diplomacia y muestra que se ha convertido en mucho más que la diplomacia de estados y gobiernos. Diplomacia Digital - E-Diplomacia - Ciber-Diplomacia - Geopolítica y Geoeconomía Digital. Exposición 'Los Habsburgo: obras maestras pocas veces vistas de la dinastía más grande de Europa'.",
+        "diplomacy":"La brecha entre la diplomacia tradicional y la diplomacia de la Industria 4.0",
+        "strong": "Diplomacia de poder fuerte",
+        "strongText": "Usa la zanahoria y el palo de la fuerza militar para que otros se dobleguen a tu voluntad.",
+        "soft": "Diplomacia de poder blando",
+        "softText": "Viene ayudando, invirtiendo y donando a la economía, cultura, investigación, desarrollo y ciencia del país objetivo para modernizarlo con el cambio exponencial de la Industria 4.0.",
+        "text4": "Cambios en el entorno político, social y económico en el que se practica la diplomacia.\n \n La aparición de cuestiones de política exterior como la ciberseguridad.\n \n Las ONG han adquirido una influencia cada vez mayor en los asuntos mundiales y en las principales 'organizaciones no gubernamentales'.\n \n Tener una relación de carácter asociativo oficial con organismos intergubernamentales.",
+        "text5": "El desarrollo de la diplomacia en el nuevo mundo necesita nuestro modelo de diplomacia de poder blando",
+        "video1": "Los Habsburgo: obras maestras pocas veces vistas de la dinastía más grande de Europa",
+        "video2": "El Congreso de Viena: Orden Conservadora de Metternich",
+        "video3": "Lo que el Imperio de los Habsburgo hizo bien y por qué es importante",
+        "video4": "Una turbulenta historia de amor en el Imperio de los Habsburgo",
+        "video5": "Franz Joseph 1830-1916 (inglés)"
+    },
+
+    "work":{
+        "title": "Cómo trabajamos",
+        "title1":"DIPLOMACIA DIRECTA",
+        "text1":"En un mundo cada vez más inestable y peligroso, necesitamos una diplomacia de poder blando eficaz. A través del compromiso diplomático directo, el respaldo financiero de fuertes inversores y la participación en nuevas tecnologías ecológicas.",
+        "title2":"IMPACTO DIPLOMÁTICO",
+        "text2":"Apoyamos y facilitamos reuniones entre inversores en capital humano, grupos de la sociedad civil y gobiernos. Organizamos reuniones bilaterales y multilaterales, eventos públicos y coaching.",
+        "title3":"DIPLOMACIA PÚBLICA",
+        "text3":"Organizamos comunicados de prensa y documentos de posición. \n \n Hacemos esto utilizando una amplia gama de medios y herramientas digitales, la publicación de entrevistas, informes de antecedentes, comunicados, declaraciones y campañas en las redes sociales.",
+        "title4":"CONSTRUCCIÓN DE COALICIONES",
+        "text4":"Creamos un equipo de proyecto y una plataforma común entre grupos que trabajan en posiciones políticas similares y construimos coaliciones y redes privadas de confianza y colaboración.",
+        "title5":"EXPERTOS COMO SOCIOS",
+        "text5":"Junto con nuestro socio",
+        "text6":"Somos socios de",
+        "text7":"Contamos con una red de más de 6000 científicos de todo el mundo y algunos de nuestros socios son líderes en grupos de expertos gubernamentales.",
+        "crypto": "GRUPO ASESOR DE CRIPTOMONEDAS",
+        "crypto2": "Consultor en criptomonedas y blockchain para gobiernos",
+        "cyber": "Socio experto en ciberseguridad y anticorrupción",
+        "cyber2": "Educación – Consultoría – Tecnología (Software – Hardware)",
+        "meet": "CONOZCA SOCIOS EXPERTOS DE TODAS LAS ÁREAS CON UNA RED MODERNA",
+        "meetText": "Capacitación de diplomáticos (seminarios web) - o nuestros diplomáticos autónomos ofrecen a los gobiernos el mejor servicio en Relaciones Públicas electrónicas - y también pueden representar a países pequeños en otros países - incl. El servicio de visa o eVisa. \n \n Menores costos y alta efectividad. O nuestros Diplomáticos Autónomos pueden representarlo en NACIONES UNIDAS.",
+        "offer": "We offer Education and Memberships",
+        "offerText": "Comienza tu carrera como diplomático autónomo con la ASSOCIATIÒN EUBULIE. \n \n Estamos interesados ​​en miembros de pleno derecho o miembros del grupo de apoyo.",
+        "offerText2": "Membresía gratuita para gobiernos"
+    },
+
+    "honorary":{
+        "title1":"Miembros Honorarios",
+        "member1":"HIRH ANDREAS SALVATOR  HASBURG-LOTHRINGEN",
+        "text1":"Andreas Salvator Gabriel Gottfried Petrus Paulus Augustinus Severinus Maria Josephus Hubertus Ignatius Habsburg-Lothringen, hijo de Hubert Salvator von Habsburg-Lothringen, Archiduque de Austria y Rosemary Friederike Isabella Eleonore Henritte Antonia von Salm-SalmCastle",
+        "honorary1":"CO-FUNDADOR Y MIEMBRO HONORARIO",
+        "member2":"Prof Elena Churina",
+        "text2":"Experto en el campo de las tecnologías e inversiones innovadoras. Fundador y Rector de Empresa» (2006-2012) sobre métodos acelerados de formación empresarial para ups estratégicos, sobre comunicación, técnicas de gestión. Elaboración y promoción de proyectos de innovación e inversión, project building y team building (existe una técnica de autor). \n \n La comunidad de expertos de la agencia para el desarrollo innovador de rirussia.ru con una red regional de expertos. El autor y organizador .ian Challenge Cup por el título 'Mejor Región Innovadora de Rusia' (2012 - 2018) desde 2018, la Copa se lleva a cabo en Eurasia www.innovacup.ru \n \n Miembro del Jurado de la Federación Rusa de los II Juegos Olímpicos Mundiales Intellectual Games for Innovators) - INNOMPIC GAMES en Malasia - 2018, el III: Games - INNOMPIC GAMES en INDIA - 2019, 1st World Innompic Games Virtual World 2020 http://innompics.com/games/judges.html \n \n Inversor, mentor de proyectos y acelerador de la plataforma digital http://businesschain.io Profesor del Departamento de Emprendimiento Innovador Instituto de Negocios e Innovación de San Petersburgo." ,
+        "honorary2":"MIEMBRO HONORARIO",
+        "member3":"HE Laila Rahhall",
+        "text3":"Business women resident in Dubai - UAE Goodwill Ambassador. \n \n Ambassador of Peace. \n \n FAAVM Canadian organization. \n \n Special Advisor to the President of the Arab African Council for Integration and Development / AACID. \n \n Vice President of the Voice Magazine Middle East. \n \n Owner of Zamzam service in Bremen, Germany. \n \n Founder and owner of business Gate for the international Businessgate.org - Businessgatway.ae \n \n Co-Founder and partner of Macan FUEL and petroleum product trading. \n \n Vice-President of Diva Production company in USA Representative office of chamber of commerce Brazilian Moroccan African. \n \n President of wen empowerment with Anwar association. \n \n Vice President of REFAI Organization in Suisse.",
+        "honorary3":"MIEMBRO HONORARIO"
+    },
+
+    "human":{
+        "title":"Formación del Ser Humano",
+        "title1":"Introducción",
+        "text1":"Solo un avance tecnológico inició la revolución industrial que cambió el mundo. \n \n En consecuencia, el sistema educativo mundial se creó entonces para alimentar a los empleados para los trabajadores repetitivos y orientados a procesos, pero también para los trabajos administrativos. El papel de las escuelas a los colegios a las universidades era entrenar el conocimiento de memoria. Su recompensa por aprobar un examen fue memorizar más para tomar otro examen. \n \n Las habilidades humanas eran lo que nos dieron. De tu familia, de tus amigos, de tu entorno y formado por los innumerables pequeños éxitos y fracasos que hemos recogido a lo largo de la vida. Por accidente, no por intención, sacamos lo mejor de lo que la vida nos dio. \n \n Las habilidades humanas, nuestra IDENTIDAD, 'quiénes nos conocemos, de qué nos sabemos capaces' nunca fue algo en lo que pensáramos. \n \n Realmente nunca se nos ocurrió que podíamos CREAR, ELEGIR, ENTRENAR la identidad que QUEREMOS y servirnos mejor.",
+        "title2":"Vivir con máquinas",
+        "text2":"Las máquinas hechas por el hombre están asumiendo cada vez más tareas que antes realizaban las máquinas humanas. Tenga en cuenta que la automatización robótica de procesos (RPA) es una de las industrias de más rápido crecimiento y UIPath está involucrada en una de las ofertas públicas iniciales de software más grandes de la historia. \n \n Y a medida que evolucionan los RPA, más trabajos que se pueden procesar y replicar están amenazados y es probable que desaparezcan. \n \n Nadie sabe exactamente cómo se desarrollará el mundo, pero es seguro que las grandes empresas nacionales y multinacionales DEBEN volver a capacitar a su fuerza laboral “más vieja” existente. \n \n Y las nuevas empresas de tecnología recién formadas y en crecimiento exponencial reclutarán la nueva fuerza laboral más joven. \n \n ¿Qué habilidades críticas se requieren para sobrevivir y prosperar en la Industria 4.0? \n \n En general, hay dos habilidades principales que se pueden usar por separado o combinadas. La primera son habilidades ‘duras’ estrechas y profundas. \n \n El segundo es un conjunto de ‘habilidades blandas’ humanas. \n \n Los humanos deben inventarse o reinventarse para hacer lo que las máquinas no pueden. \n \n Y aquí está la trampa. Hasta ahora, la gente rara vez ha sido capaz de CREAR. SELECCIONE. ENTRENAR su identidad. tus habilidades humanas.",
+        "title3":"Lo que las máquinas no pueden hacer",
+        "text3":"No pueden imaginar el futuro, contar historias, colaborar, usar herramientas, realizar múltiples tareas, conectar puntos desconectados son cinco rasgos humanos únicos que los robots no pueden replicar. \n \n Además, estas son solo algunas de las habilidades específicas requeridas para este período:",
+        "skill1": "Resolver problemas complejos",
+        "skill2": "Pensamiento crítico",
+        "skill3": "Creatividad",
+        "skill4": "Gestión de personas",
+        "skill5": "Colaboración con otros",
+        "skill6": "Inteligencia emocional",
+        "skill7": "Juzgar y tomar decisiones",
+        "skill8": "Orientación al servicio",
+        "title4": "La Cuarta Revolución Industrial",
+        "text4":"Esta era está marcada por muchas tecnologías innovadoras, Ai, AR, VR, Deep Learning, 5G, IOT, 3D Printing, Nanomaterials, por nombrar algunas. Y muchas de estas nuevas tecnologías se están combinando para crear industrias completamente nuevas. \n \n El ritmo del cambio será como nunca antes lo habíamos visto. Un ritmo exponencial en muchas áreas de la vida y los negocios. \n \n El mundo de Covid y una pandemia, donde la vida tal como la conocemos ha cesado y la ‘verdad’ ha sido difícil de encontrar, es probable que se repita de una forma u otra. \n \n Será como vivir en una ola australiana de Rip Curl 24/7.",
+        "title5":"SER HUMANO Formación",
+        "text5":"Este es el hogar de la educación y formación de Identidad, Soft, Habilidades HUMANAS. \n \n No siguiendo el enfoque de Anthony Robins con acciones masivas, sino tomando pequeñas acciones repetidas cada día, sintiéndose ‘incómodo’, esperando un 1% incremental para que el interés compuesto entre en acción, adquiriendo conocimiento y luego llevando esa nueva habilidad hasta un día que domines. ‘conviértete en el entrenamiento’. \n \n La presión es amiga de la capacidad humana. Cómo PRESIÓN crea un diamante. Así es como la PRESIÓN puede entrenarse a sí mismo. \n \n Los entrenadores y coaches más experimentados han aprendido su oficio entrenando a sus alumnos para competir. \n \n Primero, los entrenadores de Be Human provienen del mundo individual del tenis. \n \n Pero en el futuro, esto se expandirá a otros deportes, deportes de equipo, arte, música y danza, ya que todas estas pasiones forman a una persona diferente. \n \n También son bienvenidos expertos, psicólogos, ajenos al mundo de las ‘pasiones’. \n \n Para Be Human, posiblemente por primera vez, permitir a los humanos CREAR, ELEGIR y ENTRENAR quiénes quieren ser, cómo sobrevivir y prosperar en una era dirigida por máquinas es poderoso.",
+        "declaration":"«Los avances más emocionantes del siglo XXI no ocurrirán por la tecnología, sino por un concepto en expansión de lo que significa ser humano»",
+        "autor":"John Naisbitt"
+    },
+
+    "blog":{
+        "title":"Noticias",
+        "text1":"Pronto disponible"
+    },
+
+    "events":{
+        "title":"Eventos",
+        "text1":"Pronto disponible"
+    },
+
+    "footer":{
+        "text1":"@Association Eubulie. PTA – Calle Frederick Terman, 3. 29590 Malaga – Spain. \n \n All rights reserved."
+    }
+}

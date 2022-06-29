@@ -1,38 +1,147 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background: var(--color-bg);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+a {
+  color: unset;
+  text-decoration: none;
+}
+
+.gradient__bg {
+  background-image: url('assets/planet.png');
+  /*background-size: 155rem*/
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position:center;
+}
+
+.gradient__text {
+  color: var(--color-title)
+}
+
+.gradient__text2 {
+  animation: scrolling2 1.5s linear 1;
+  line-height: 100%!important;
+
+}
+
+.gradient__text2_2 {
+    animation: scrolling3 1.5s linear 1;
+    line-height: 100%!important;
+}
+
+.titles {
+  font-family: var(--font-family);
+  font-size: 80px;
+  font-weight: 500;
+  letter-spacing: 0.5rem;
+  line-height: 1.5em;
+  position: relative;
+
+  margin-bottom: 5rem;
+  margin-left: 2rem;
+
+  color: var(--color-title);
+}
+
+.text1 {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 30px;
+  color: black;
+}
+
+.navbar-fixed {
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  z-index: 100; /* delante de todo*/
+  
+  border-bottom-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+  box-shadow: 5rem;
+  background-color: white;
+  filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.10));
+  opacity: 0.97;
+}
+
+.section__padding {
+  padding: 4rem 6rem;
+}
+
+.section__margin {
+  margin: 4rem 6rem;
+}
+
+.scale-up-center {
+	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@-webkit-keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
 }
 
-.App-link {
-  color: #61dafb;
+@media screen and (max-width: 850px) {
+  .text1 {
+    font-size: 25px;
+  }
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+
+
+@media screen and (max-width: 700px) {
+  .titles {
+    font-size: 50px;
+    font-weight: 500;
   }
-  to {
-    transform: rotate(360deg);
+
+  .section__padding {
+    padding: 4rem;
   }
+
+  .section__margin {
+    margin: 4rem;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .section__padding {
+    padding: 4rem 2rem;
+  }
+
+  .section__margin {
+    margin: 4rem 2rem;
+  }  
+
+    .text1 {
+      font-size: 20px;
+    }
+
 }
