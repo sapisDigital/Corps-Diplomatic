@@ -7,6 +7,7 @@
 }
 
 .paginationBttns a {
+    font-size: 18px;
     padding: 0.5rem;
     margin: 8px;
     border-radius: 150%;
@@ -23,7 +24,7 @@
 }
 
 .paginationActive a {
-    background-color: var(--color-title2);
+  background-color: var(--color-text);
 }
 
 .previousBttn {
@@ -44,11 +45,27 @@
   @media screen and (max-width: 850px) {
     .paginationBttns {
       margin-top: 2rem;
-    }  
+    }
+
+    .paginationBttns a {
+      font-size: 15px;
+  }  
 }
+
+@media screen and (max-width: 650px) {
+  .paginationBttns a {
+    font-size: 10px;
+  }  
+
+}  
 
 @media screen and (max-width: 550px) {
   .paginationBttns {
     margin-top: 1rem;
   }
+
+  .paginationBttns a {
+    font-size: 8px;
+  }  
+
 }  

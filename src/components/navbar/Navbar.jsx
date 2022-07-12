@@ -46,6 +46,9 @@ export default function Navbar(){
       <select className='.gpt3__navbar-sign button'  onChange={onChange}>
         <option value={"en"}>🇬🇧&emsp;</option>
         <option value={"es"}>🇪🇸&emsp;</option>
+        <option value={"fr"}>🇫🇷&emsp;</option>
+        <option value={"de"}>🇩🇪&emsp;</option>
+        <option value={"pt"}>🇵🇹&emsp;</option>
       </select> 
       </div>
       

@@ -40,7 +40,7 @@ a {
 
 .titles {
   font-family: var(--font-family);
-  font-size: 80px;
+  font-size: 3.5vw;
   font-weight: 500;
   letter-spacing: 0.5rem;
   line-height: 1.5em;
@@ -51,6 +51,31 @@ a {
 
   color: var(--color-title);
 }
+
+.titles:before {
+  padding-left: -5rem;
+  content: "";
+  position: absolute;
+  left: -30px;
+  bottom: -10px;
+  height: 8px;
+  width: 100px;
+  background-color: var(--color-box2);
+}
+
+.titles:after {
+  padding-left: -5rem;
+  content: "";
+  position: absolute;
+  left: -30px;
+  bottom: -8px;
+  height: 3px;
+  width: 95%;
+  max-width: 400px;
+  background-color: var(--color-box1);
+  z-index: -1;
+}
+
 
 .text1 {
   font-family: var(--font-family);
@@ -108,18 +133,61 @@ a {
   }
 }
 
+
+@media screen and (max-width: 1450px) {
+  
+  .titles {
+    font-size: 4vw;
+  }
+
+  .titles:before {
+    height: 6px;
+    width: 100px;
+  }
+  
+  .titles:after {
+    height: 1.5px;
+    width: 95%;
+    max-width: 400px;
+  }
+
+}
+
+@media screen and (max-width: 1050px) {
+  
+  .titles {
+    font-size: 7vw;
+  }
+
+}
+
+
 @media screen and (max-width: 850px) {
   .text1 {
     font-size: 25px;
   }
+  
+  .titles:before {
+    margin-top: 2rem;
+    height: 5px;
+    width: 100px;
+    left: -20px;
+  }
+  
+  .titles:after {
+    height: 1px;
+    width: 95%;
+    max-width: 300px;
+    left: -20px;
+  }
+
 }
 
-
-
 @media screen and (max-width: 700px) {
+  
   .titles {
-    font-size: 50px;
-    font-weight: 500;
+    font-size: 10vw;
+    letter-spacing: 0.3rem;
   }
 
   .section__padding {
@@ -132,6 +200,11 @@ a {
 }
 
 @media screen and (max-width: 550px) {
+  .titles {
+    font-size: 11vw;
+    letter-spacing: 0rem;
+  }
+
   .section__padding {
     padding: 4rem 2rem;
   }
@@ -142,6 +215,14 @@ a {
 
     .text1 {
       font-size: 20px;
+    }
+
+    .titles:before {
+      left: -10px;
+    }
+    
+    .titles:after {
+      left: -10px;
     }
 
 }

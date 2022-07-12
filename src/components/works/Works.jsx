@@ -52,11 +52,13 @@ export default function Works() {
           <Text title={t("work.text5")} text= "" box={"gradient__text"} /> 
           <img className = "image_features3" src={nauka} />
         </div>
+
         <div className="text-coalition-features">
           <Text title={t("work.text6")} text= "" box={"gradient__text"} /> 
           <img className = "image_features3" src={wfi} />
         </div>
         <p className="text1 gradient__text"> {t("work.text7")} </p>
+
     </div>,
     <div className="gpt3__features gpt3__features-box" key='3'>
         {cryptodiv}
@@ -84,7 +86,7 @@ export default function Works() {
           <div className="text-cyber-features">
           <img className = "image_networking" src={networking} />
             <div className="text-cyber-features2"> 
-              <h3 className="gradient__title">{t("work.meet")}</h3>
+              <h3 className="">{t("work.meet")}</h3>
               <p className="text1 text-cyber"> {t("work.meetText")} </p>
             </div>
           </div>  

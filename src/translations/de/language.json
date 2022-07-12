@@ -1,0 +1,124 @@
+{
+    "header":{
+        "header-message":"WILLKOMMEN",
+        "box1":"AUTONOME DIPLOMATEN",
+        "box2":"STARKE SOZIALE INNOVATOREN, DIE GEMEINSAM DIE WELT VERÄNDERN",
+        "box3":"*Gemeinnützige Beratungsgruppe"
+    },
+
+    "navbar":{
+        "home":"HOME",
+        "aboutUs":"DASS SIND WIR",
+        "how":"WIE WIR ARBEITEN",
+        "hononary":"EHRENAMTLICHE MITGLIEDER",
+        "be human":"MENSCHLICH SEIN",
+        "events":"VERANSTALTUNGEN",
+        "news":"NEWS",
+        "contacts":"KONTAKT UND IMPRESSUM"
+    },
+
+    "about":{
+        "title":"Dass sind wir",
+        "title1":"EIN SPRUNG IN DIE GESCHICHTE",
+        "text1":"Wir wissen nicht, wann die menschlichen Gesellschaften zum ersten Mal das Bedürfnis verspürten, miteinander zu kommunizieren, aber man kann mit Sicherheit davon ausgehen, dass dies von Anfang an der Fall war.",
+        "title2":"DER KONGRESS VON WIEN",
+        "text2":"War in vielerlei Hinsicht ein historisch einzigartiges Ereignis, nicht nur in technischer Hinsicht, sondern auch ein illegitimes Treffen, wie Fürst Metternich begriff. Die Grundannahme, von der die Veranstaltung ausging, war: „Wie können wir nach Napoleons Zerschlagung der Welt Ideologie zum vorherigen politischen System zurückkehren?“. Die Diplomatie hatte sich stetig als Mittel entwickelt, mit dem souveräne Herrscher miteinander kommunizierten.",
+        "title3":"DIE EVOLUTION DER DIPLOMATIE",
+        "text3":"Beschreibt die Geschichte der Diplomatie und zeigt, dass sie weit mehr geworden ist als die Diplomatie von Staaten und Regierungen. Digitale Diplomatie – E-Diplomatie – Cyber-Diplomatie – Digitale Geopolitik und Geoökonomie.",   
+        "diplomacy":"Der Riss zwischen Traditioneller Diplomatie und Industrie 4.0-Diplomatie",
+        "strong": "Starke Machtdiplomatie",
+        "strongText": "Setzt Zuckerbrot und Peitsche militärischer Gewalt ein, um andere dazu zu bringen, sich deinem Willen zu beugen.",
+        "soft": "Sanfte Kraft Diplomatie",
+        "softText": "Kommt durch die Hilfe, Investitionen und Spenden in die Wirtschaft, Kultur, Forschung, Entwicklung und Wissenschaft des Ziellandes, um es mit dem exponentiellen Wandel von Industrie 4.0 zu modernisieren",
+        "text4": "Veränderungen im politischen, sozialen und wirtschaftlichen Umfeld, in dem Diplomatie betrieben wird.\n \n Die Entstehung von Themen in der Außenpolitik wie Cybersicherheit.\n \n NGOs haben einen zunehmenden Einfluss auf das Weltgeschehen und in bedeutendsten „Nicht-Regierungs-Organisationen“ erhalten.\n \n Haben eine Beziehung von offiziellem assoziativem Status mit zwischenstaatlichen Organisationen.",
+        "text5": "Wissenschaftliche Artikel über Soft-Power-Diplomaten",
+        "video1": "Ausstellung Die Habsburger: Selten gesehene Meisterwerke aus Europa‘s größter Dynastie",
+        "video2": "Der Wiener Kongress: Metternichs Konservative Ordnung (AP Eu)",
+        "video3": "Was das Habsburgerreich richtig gemacht hat und warum es wichtig ist",
+        "video4": "Eine turbulente Liebesgeschichte im Habsburgerreich",
+        "video5": "Franz Joseph 1830-1916 (English)"
+    },
+
+    "work":{
+        "title": "Wie wir arbeiten",
+        "title1":"DIREKTE DIPLOMATIE",
+        "text1":"In einer zunehmend instabilen und gefährlichen Welt brauchen wir eine effektive Soft-Power-Diplomatie. Durch direktes diplomatisches Engagement, finanzielle Unterstützung durch starke Investoren und die Beteiligung an neuen grünen Technologien.",
+        "title2":"DIPLOMATISCHE AUSWIRKUNG",
+        "text2":"Wir unterstützen und erleichtern Treffen zwischen Humankapitalinvestoren, zivilgesellschaftlichen Gruppen und Regierungen. Wir organisieren bilaterale und multilaterale Treffen, öffentliche Veranstaltungen und Coachings.",
+        "title3":"ÖFFENTLICHE DIPLOMATIE",
+        "text3":"Wir organisieren Pressemitteilungen und Positionspapiere. \n \n Wir tun dies durch den Einsatz einer breiten Palette von Medien und digitalen Tools, die Veröffentlichung von Interviews, Hintergrundbriefings, Kommuniqués, Statements und Social-Media-Kampagnen.",
+        "title4":"KOALITIONS KONSTRUKTION",
+        "text4":"Wir schaffen ein Projektteam und eine gemeinsame Plattform zwischen Gruppen, die an ähnlichen politischen Positionen arbeiten, und bauen Koalitionen und private Netzwerke des Vertrauens und der Zusammenarbeit auf.",
+        "title5":"EXPERTEN ALS PARTNER",
+        "text5":"Zusammen mit unserem Partner",
+        "text6":"Wir sind Partner von",
+        "text7":"Wir haben ein Netzwerk von mehr als 6000 Wissenschaftlern aus der ganzen Welt und einige unserer Partner sind führend in der Expertengruppe der Regierungen.",
+        "crypto": "CRYPTO WÄHRUNG BERATUNSGRUPPE",
+        "crypto2": "CRYPTO WÄHRUNG UND BLOCKCHAIN BERATER FÜR REGIERUNGEN",
+        "cyber": "EXPERTENPARTNER FÜR CYBER-SICHERHEIT UND ANTI-KORRUPTION",
+        "cyber2": "Bildung – Beratung – Technologie (Software – Hardware)",
+        "meet": "TREFFEN SIE EXPERTENPARTNER AUS ALLEN BEREICHEN MIT EINEM MODERNEN NETZWERK",
+        "meetText": "Ausbildung von Diplomaten (Webinare) – oder unsere autonomen Diplomaten bieten Regierungen den besten Service in ePublic Relations – und können auch kleine Länder in anderen Ländern vertreten – inkl. Den Visa- oder eVisa-Service. Geringere Kosten und hohe Effektivität. Oder unsere Autonomen Diplomaten können Sie in der VEREINTEN NATION vertreten. \n \n Reduzierte Kosten für Regierungen dank hoher Effektivität.",
+        "offer": "Wir bieten Bildung und Mitgliedschaften an",
+        "offerText": "Starten Sie Ihre Karriere als Autonomer Diplomat bei der ASSOCIATIÒN EUBULIE. \n \n Wir sind an Vollmitgliedern oder Mitgliedern aus dem Förderkreis interessiert.",
+        "offerText2": "Kostenlose Mitgliedschaft für Regierungen"
+
+    },
+
+    "honorary":{
+        "title1":"Ehrenamtliche mitglieder",
+        "member1":"HIRH ANDREAS SALVATOR  HASBURG-LOTHRINGEN",
+        "text1":"Andreas Salvator Gabriel Gottfried Petrus Paulus Augustinus Severinus Maria Josephus Hubertus Ignatius Habsburg-Lothringen. \n \n Sohn von Hubert Salvator von Habsburg-Lothringen, Erzherzog von Österreich und Rosemary Friederike Isabella Eleonore Henritte Antonia von Salm-SalmCastle",
+        "honorary1":"MITGRÜNDER UND EHRENAMTLICHES MITGLIED",
+        "member2":"Prof Elena Churina",
+        "text2":"Experte auf dem Gebiet innovativer Technologien und Investitionen. Gründer und Rektor von Business» (2006-2012) über beschleunigte Methoden des Business-Trainings für strategische Ups, über Kommunikation, Managementtechniken. Vorbereitung und Förderung von Innovations- und Investitionsvorhaben, Projekt und Teambuilding (es gibt eine Autorentechnik). \n \n Die Expertengemeinschaft der Agentur für innovative Entwicklung von rirussia.ru mit einem regionalen Expertennetzwerk. Der Autor und Veranstalter .ian Challenge Cup um den Titel „Beste innovative Region Russlands“ (2012 – 2018) seit 2018 findet der Cup auf eurasischer Basis statt www.innovacup.ru \n \n Mitglied der Jury der Russischen Föderation der II. World Inompic Games Intellektuelle Spiele für Innovatoren) – INNOMPIC GAMES in Malaysia – 2018, der III: Spiele – INNOMPIC GAMES in INDIA – 2019, 1st World Innompic Games Virtual World 2020 \n \n Investor, Mentor für Projekte und Beschleuniger der digitalen Plattform http://businesschain.io \n \n Professor des Department of Innovative Entrepreneurship St. Petersburg Institute of Business and Innovation." ,
+        "honorary2":"EHRENAMTLICHES MITGLIED",
+        "member3":"HE Laila Rahhall",
+        "text3": "In Dubai ansässige Geschäftsfrauen - Botschafterin des guten Willens der VAE. \n \n Botschafterin des Friedens. \n \n FAAVM Kanadische Organisation. \n \n Sonderberaterin des Präsidenten des Arab African Council for Integration and Development / AACID. \n \n Vizepräsident des Voice Magazine Middle East. \n \n Inhaberin des Zamzam-Dienstes in Bremen, Deutschland. \n \n Gründer und Inhaber von Businessgate für das internationale Businessgate.org - Businessgatway.ae \n \n Mitbegründer und Partner von Macan FUEL und dem Handel mit Erdölprodukten. \n \n Vizepräsident der Firma Diva Production in den USA Repräsentanz der Handelskammer Brasilianisch-Marokkanisch-Afrikanisch. \n \n Präsidentin des Vereins Wen Empowerment with Anwar. \n \n Vizepräsident der REFAI Organisation in der Schweiz.",
+        "honorary3":"EHRENAMTLICHES MITGLIED"
+    },
+
+    "human":{
+        "title":"Menschlich Sein Training",
+        "title1":"Einleitung",
+        "text1":"Nur ein einziger technologischer Durchbruch leitete die industrielle Revolution ein, die die ganze Welt veränderte. \n \n Dementsprechend wurde dann das weltweite Bildungssystem geschaffen, um die Mitarbeiter für die sich wiederholenden, prozessorientierten Arbeiter-, aber auch Angestelltenjobs zu ernähren. \n \n Die Rolle von Schulen über Colleges bis hin zu Universitäten bestand darin, Wissen auswendig zu trainieren. Ihre Belohnung für das Bestehen einer Prüfung bestand darin, mehr auswendig zu lernen, um eine weitere Prüfung abzulegen. \n \n Menschliche Fähigkeiten waren das, was uns gegeben wurde. Von deiner Familie, deinen Freunden, deinem Umfeld und geprägt von den unzähligen kleinen Erfolgen und Misserfolgen, die wir im Laufe des Lebens gesammelt haben. Aus Zufall, nicht aus Absicht, haben wir das Beste aus dem gemacht, was uns das Leben gegeben hat. \n \n Menschliche Fähigkeiten, unsere IDENTITÄT, „wer wir uns selbst kennen, wozu wir uns selbst in der Lage wissen“ waren nie etwas, worüber wir nachgedacht haben. \n \n Es ist uns nie wirklich in den Sinn gekommen, dass wir die Identität, die wir WOLLEN, SCHAFFEN, WÄHLEN, TRAINIEREN könnten und uns am besten dienen würden.",
+        "title2":"Leben mit Maschinen",
+        "text2":"Menschengemachte Maschinen übernehmen zunehmend Aufgaben, die zuvor von menschlichen Maschinen erledigt wurden. Beachten Sie, dass Robotic Process Automation (RPAs) eine der am schnellsten wachsenden Branchen ist und UIPath an einem der größten Software-IPOs der Geschichte beteiligt ist. \n \n Und je mehr sich RPAs weiterbilden, desto mehr Jobs, die verarbeitet und repliziert werden können, sind bedroht und werden wahrscheinlich verschwinden. \n \n Niemand weiß genau, wie sich die Welt entwickeln wird, aber es ist sicher, dass große nationale und multinationale Unternehmen ihre bestehenden „älteren“ Arbeitskräfte umschulen MÜSSEN. \n \n Und neu gegründete, exponentiell wachsende neue Technologieunternehmen werden die neuen, jüngeren Arbeitskräfte rekrutieren. \n \n Welche kritischen Fähigkeiten sind erforderlich, um in Industrie 4.0 zu überleben und erfolgreich zu sein? Im Allgemeinen gibt es zwei Hauptfähigkeiten, die getrennt oder kombiniert werden können. Die erste sind enge und tiefe „harte“ Fähigkeiten. Die zweite ist eine Reihe menschlicher „Soft Skills“. \n \n Menschen müssen sich selbst erfinden oder neu erfinden, um das zu tun, was Maschinen nicht können. \n \n Und hier ist der Haken. Bisher waren Menschen selten in der Lage zu SCHAFFEN. WÄHLEN. TRAINIERE ihre Identität. Ihre menschlichen Fähigkeiten.",
+        "title3":"Was können Maschinen nicht tun",
+        "text3":"Sie können sich die Zukunft nicht vorstellen, Geschichten erzählen, zusammenarbeiten, Werkzeuge verwenden, Multitasking betreiben, unzusammenhängende Punkte verbinden sind fünf einzigartige menschliche Eigenschaften, die von Robotern nicht repliziert werden können. \n \n Darüber hinaus sind dies nur einige der spezifischen Fähigkeiten, die für diese Zeit erforderlich sind:",
+        "skill1": "Komplexe Probleme lösen",
+        "skill2": "Kritisches Denken",
+        "skill3": "Kreativität",
+        "skill4": "Personalmanagement",
+        "skill5": "Zusammenarbeit mit anderen",
+        "skill6": "Emotionelle Intelligenz",
+        "skill7": "Judgement und Entscheidungen treffen",
+        "skill8": "Dienstleistungs Orientation",
+        "title4":"Die 4. Industrielle Revolution",
+        "text4":"Diese Ära ist geprägt von vielen bahnbrechenden Technologien, Ai, AR, VR, Deep Learning, 5G, IOT, 3D-Druck, Nanomaterialien, um nur einige zu nennen. Und viele dieser neuen Technologien werden miteinander kombiniert, um völlig neue Industrien zu schaffen. \n \n Das Tempo des Wandels wird so sein, wie wir es noch nie zuvor erlebt haben. Ein exponentielles Tempo in vielen Lebens- und Geschäftsbereichen. \n \n Die Welt von Covid und einer Pandemie, in der das Leben, wie wir es kennen, aufgehört hat und die „Wahrheit“ schwer zu finden war, wird sich wahrscheinlich auf die eine oder andere Weise wiederholen. \n \n Es wird sein, als würde man rund um die Uhr in einer australischen Rip Curl-Welle leben.",
+        "title5":"MENSCH SEIN Training",
+        "text5":"Dies ist die Heimat der Bildung und Ausbildung von Identität, Soft, HUMAN Skills. \n \n Nicht, indem man den Ansatz von Anthony Robins mit massiven Aktionen verfolgt, sondern durch kleine Aktionen, die jeden Tag wiederholt werden, „unbequem“ sind, inkrementelle 1% warten, bis der Zinseszins einsetzt, Kenntnisse erwerben und diese neue Fähigkeit dann bis zu einem Tag beherrschen Sie 'werden das Training'. \n \n Druck ist der Freund menschlicher Fähigkeiten. Wie DRUCK einen Diamanten erschafft. So kann DRUCK das SELBST trainieren. Die meisten erfahrenen Coaches und Trainer haben ihr Handwerk gelernt, indem sie ihre Schüler für den Wettkampf trainiert haben. Zunächst kommen Be Human Coaches aus der Individualwelt des Tennis. \n \n Aber in Zukunft wird sich dies auf andere Sportarten, Mannschaftssportarten, Kunst, Musik und Tanz ausdehnen, da diese Leidenschaften alle einen anderen Menschen trainieren. \n \nExperten, Psychologen, außerhalb der Welt der „Leidenschaften“ sind ebenfalls willkommen. \n \n Für Be Human, möglicherweise zum ersten Mal, Menschen zu erlauben, zu ERSCHAFFEN, WÄHLEN und TRAINIEREN, wer sie sein wollen, wie sie in einer von Maschinen geführten Ära überleben und gedeihen können, ist mächtig.",
+        "declaration":"«Die aufregendsten Durchbrüche des 21. Jahrhunderts werden nicht wegen der Technologie auftreten, sondern wegen ein sich erweiterndes Konzept dessen, was es bedeutet, ein Mensch zu sein»",
+        "autor":"John Naisbitt"
+    },
+
+    "blog":{
+        "title":"News",
+        "text1":"Demnächst verfügbar"
+    },
+
+    "events":{
+        "title":"Veranstaltungen",
+        "text1":"Demnächst verfügbar"
+    },
+
+    "footer":{
+        "text1":"@Association Eubulie. PTA – C/Marie Curier, 3 (2º - 5) 29590 Malaga – Spain. \n \n All rights reserved."
+    }
+
+
+
+
+
+    
+}

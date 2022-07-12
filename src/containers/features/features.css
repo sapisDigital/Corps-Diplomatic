@@ -309,8 +309,8 @@
     }
 
     .gpt3__features-box h3{
-        font-size: 30px;
-        line-height: 30px;
+        font-size: 35px;
+        line-height: 35px;
         margin-bottom: 1rem;
         max-width: 100%;
     }
@@ -384,8 +384,8 @@
     }
 
     .gpt3__features-box h3{
-        font-size: 35px;
-        line-height: 35px;
+        font-size: 30px;
+        line-height: 30px;
         margin-bottom: 1rem;
         max-width: 100%;
     }
@@ -426,8 +426,8 @@
     }
 
     .gpt3__features-box p{
-        margin-top: 2rem;
-        margin-bottom: 2rem;
+        margin-top: 0rem;
+        margin-bottom: 1rem;
         max-width: 80%;
     }
 }
@@ -440,19 +440,14 @@
         height: 50rem;
     }
 
-    .gpt3__features-box h3{
-        font-size: 30px;
-        line-height: 35px;
-    }
-
     .text-cyber-features2 p{
         font-size: 25px;
         line-height: 24px;
     }
 
     .gpt3__features-box h3{
-        font-size: 30px;
-        line-height: 30px;
+        font-size: 28px;
+        line-height: 25px;
         margin-bottom: 1rem;
     }
 
@@ -515,18 +510,18 @@
 
     .text-cyber-features2 p{
         font-size: 20px;
-        line-height: 24px;
+        line-height: 20px;
     }
 
     .gpt3__features-box h3{
         font-size: 25px;
-        line-height: 30px;
+        line-height: 20px;
         margin-bottom: 1rem;
     }
 
     .gpt3__features-box {
         width: auto;
-        height: 35rem;
+        height: 40rem;
     }
 
     .image_advisor{
@@ -562,13 +557,13 @@
 
     .text-cyber-features2 p{
         font-size: 15px;
-        line-height: 24px;
+        line-height: 20px;
     }
 
     .gpt3__features-box h3{
         font-size: 20px;
-        line-height: 30px;
-        margin-bottom: -1rem;
+        line-height: 20px;
+        margin-bottom: 0.8rem;
         max-width: 100%;
     }
 
@@ -595,14 +590,14 @@
         height: 175px; /*350*/
     }
 
-    .gpt3__features-box {
-        width: auto;
-        height: 33rem;
-    }
-
     .gpt3__features-container3 {
         transform: translate(0%,0%);
         display: block;
         margin: 0 auto;
+    }
+
+    .gpt3__features-box {
+        width: auto;
+        height: 35rem;
     }
 }

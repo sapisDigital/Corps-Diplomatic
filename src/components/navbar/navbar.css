@@ -283,8 +283,13 @@ hr {
 
     }
 
-    .gpt3__navbar-sign {
-        display: none;
+    .gpt3__navbar-sign select{
+        font-size: 20px;
+    }
+
+    .gpt3__navbar-links_logo img {
+        width: 200%;
+        height: auto;
     }
 
     .gpt3__navbar-menu_container {
@@ -295,4 +300,12 @@ hr {
         display: block;
     }
 
+}
+
+@media screen and (max-width: 450px) {
+
+    .gpt3__navbar-links_logo img {
+        width: 300%;
+        height: auto;
+    }
 }

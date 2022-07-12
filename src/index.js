@@ -7,6 +7,9 @@ import { I18nextProvider } from 'react-i18next';
 
 import es from "./translations/es/language.json";
 import en from "./translations/en/language.json";
+import fr from "./translations/fr/language.json";
+import de from "./translations/de/language.json";
+import pt from "./translations/pt/language.json";
 
 i18next.init({
     interpolation: {escapeValue: false},
@@ -17,6 +20,15 @@ i18next.init({
         },
         en:{
             language: en,
+        },
+        fr:{
+            language: fr,
+        },
+        de:{
+            language: de,
+        },
+        pt:{
+            language: pt,
         },
     },
 });

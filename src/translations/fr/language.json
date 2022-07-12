@@ -1,0 +1,124 @@
+{
+    "header":{
+        "header-message":"BIENVENUE",
+        "box1":"DIPLOMATES AUTONOMES",
+        "box2":"DE PUISSANTS INNOVATEURS SOCIAUX QUI CHANGENT LE MONDE",
+        "box3":"*Groupe consultatif à but non lucratif"
+    },
+
+    "navbar":{
+        "home":"ACCEUIL",
+        "aboutUs":"QUI SOMMES-NOUS",
+        "how":"COMMENT NOUS TRAVAILLONS",
+        "hononary":"MEMBRES HONORAIRES",
+        "be human":"BE HUMAN",
+        "events":"ÉVÉNEMENTS",
+        "news":"NOUVELLES",
+        "contacts":"CONTACTS ET IMPRESSUM"
+    },
+
+    "about":{
+        "title":"Qui sommes-nous",
+        "title1":"UN SAUT DANS L'HISTOIRE",
+        "text1":"Nous ne savons pas quand les sociétés humaines ont ressenti pour la première fois le besoin de communiquer entre elles, mais il est prudent de supposer qu'elles l'ont fait dès le début.",
+        "title2":"LE CONGRÈS DE VIENNE",
+        "text2":"Un événement historiquement unique à bien des égards, non seulement d'un point de vue technique, mais aussi une rencontre illégitime, comme l'avait compris le Prince Metternich. L'hypothèse de base à partir de laquelle l'événement a commencé était: 'Comment pouvons-nous revenir au système politique précédent après l'écrasement de l'idéologie mondiale par Napoléon?'. La diplomatie s'était progressivement développée comme la façon dont les dirigeants souverains communiquaient entre eux.",
+        "title3":"L'ÉVOLUTION DE LA DIPLOMATIE",
+        "text3":"Décrit l'histoire de la diplomatie et montre qu'elle est devenue bien plus que la diplomatie des États et des gouvernements. Diplomatie Numérique - E-Diplomatie - Cyber-Diplomatie - Géopolitique et Géoéconomie Numériques. Exposition 'Les Habsbourg : chefs-d'œuvre rarement vus de la plus grande dynastie d'Europe'",   
+        "diplomacy":"Le fossé entre la diplomatie traditionnelle et la diplomatie de l'industrie 4.0",
+        "strong": "Une diplomatie de puissance forte",
+        "strongText": "Utilisez la carotte et le bâton de la force militaire pour amener les autres à se plier à votre volonté.",
+        "soft": "Diplomatie du soft power",
+        "softText": "Vient en aidant, en investissant et en faisant un don à l'économie, à la culture, à la recherche, au développement et à la science du pays cible pour le moderniser avec le changement exponentiel de l'Industrie 4.0",
+        "text4": "Changements dans l'environnement politique, social et économique dans lequel la diplomatie est pratiquée.\n \n Les ONG ont acquis une influence croissante dans les affaires mondiales et dans les principales 'organisations non gouvernementales'.\n \n Avoir une relation de statut associatif officiel avec des organisations intergouvernementales.",
+        "text5": "Le développement de la diplomatie dans le nouveau monde a besoin de notre modèle de diplomatie du soft power",
+        "video1": "Les Habsbourg : chefs-d'œuvre rarement vus de la plus grande dynastie d'Europe",
+        "video2": "Le Congrès de Vienne : l'Ordre conservateur de Metternich (AP Eu)",
+        "video3": "Ce que l'empire des Habsbourg a bien fait et pourquoi c'est important",
+        "video4": "Une histoire d'amour mouvementée dans l'Empire des Habsbourg",
+        "video5": "Franz Joseph 1830-1916 (Anglais)"
+    },
+
+    "work":{
+        "title": "Comment nous travaillons",
+        "title1":"DIPLOMATIE DIRECTE",
+        "text1":"Dans un monde de plus en plus instable et dangereux, nous avons besoin d'une diplomatie efficace du soft power. Grâce à un engagement diplomatique direct, au soutien financier d'investisseurs solides et à une implication dans les nouvelles technologies vertes.",
+        "title2":"IMPACT DIPLOMATIQUE",
+        "text2":"Nous soutenons et facilitons les rencontres entre les investisseurs en capital humain, les groupes de la société civile et les gouvernements. Nous organisons des rencontres bilatérales et multilatérales, des événements publics et du coaching.",
+        "title3":"DIPLOMATIE PUBLIQUE",
+        "text3":"Nous organisons des communiqués de presse et des prises de position. \n \n Pour ce faire, nous utilisons un large éventail d'outils médiatiques et numériques, la publication d'interviews, de notes d'information, de communiqués, de déclarations et de campagnes sur les réseaux sociaux.",
+        "title4":"COALITION CONSTRUCTION",
+        "text4":"Nous créons une équipe de projet et une plate-forme commune entre des groupes travaillant sur des positions politiques similaires et construisons des coalitions et des réseaux privés de confiance et de collaboration.",
+        "title5":"DES EXPERTS COMME PARTENAIRES",
+        "text5":"En collaboration avec notre partenaire",
+        "text6":"Nous sommes partenaires de",
+        "text7":"Nous avons un réseau de plus de 6000 scientifiques du monde entier et certains de nos partenaires sont des leaders dans des groupes d'experts gouvernementaux.",
+        "crypto": "CRYPTO CURRENCY ADVISOR GROUP",
+        "crypto2": "CONSULTANT EN CRYPTO MONNAIE ET ​​BLOCKCHAIN ​​POUR LES GOUVERNEMENTS",
+        "cyber": "PARTENAIRE EXPERT EN CYBERSÉCURITÉ ET ANTI-CORRUPTION",
+        "cyber2": "Formation – Conseil – Technologie (Logiciel – Matériel)",
+        "meet": "RENCONTREZ DES PARTENAIRES EXPERTS DE TOUS LES DOMAINES AVEC UN RÉSEAU MODERNE",
+        "meetText": "Formation de diplomates (webinaires) - ou nos diplomates autonomes offrent aux gouvernements le meilleur service en ePublic Relations - et peuvent également représenter de petits pays dans d'autres pays - incl. Le service de visa ou eVisa. Coûts réduits et efficacité élevée. Ou nos diplomates autonomes peuvent vous représenter aux NATIONS UNIES. \n \n Coûts réduits pour les gouvernements grâce à une grande efficacité.",
+        "offer": "Nous proposons des formations et des abonnements",
+        "offerText": "Commencez votre carrière de diplomate autonome avec l'ASSOCIATIÒN EUBULIE. \n \n Nous sommes intéressés par des membres à part entière ou des membres du groupe de soutien.",
+        "offerText2": "Adhésion gratuite pour les gouvernements"
+
+    },
+
+    "honorary":{
+        "title1":"Membres honoraires",
+        "member1":"HIRH ANDREAS SALVATOR  HASBURG-LOTHRINGEN",
+        "text1":"Andreas Salvator Gabriel Gottfried Petrus Paulus Augustinus Severinus Maria Josephus Hubertus Ignatius Habsburg-Lothringen. \n \n fils de Hubert Salvator von Habsburg-Lothringen, archiduc d'Autriche et Rosemary Friederike Isabella Eleonore Henritte Antonia von Salm-SalmCastle",
+        "honorary1":"CO-FONDATEUR ET MEMBRE D'HONNEUR",
+        "member2":"Prof Elena Churina",
+        "text2":"Expert dans le domaine des technologies innovantes et des investissements. Fondateur et Recteur d'Entreprise » (2006-2012) sur les méthodes accélérées de formation en entreprise pour les montées stratégiques, sur la communication, les techniques de management. Préparation et promotion de projets d'innovation et d'investissement, projet et team building (il existe une technique d'auteur). \n \n La communauté d'experts de l'agence pour le développement innovant de rirussia.ru avec un réseau régional d'experts. L'auteur et organisateur .ian Challenge Cup pour le titre 'Meilleure région innovante de Russie' (2012 - 2018) depuis 2018, la Coupe est organisée sur une base eurasienne www.innovacup.ru \n \n Membre du Jury de la Fédération de Russie des II Jeux Mondiaux Inompiques Jeux intellectuels pour les innovateurs) - INNOMPIC GAMES en Malaisie - 2018, les III : Jeux - INNOMPIC GAMES en INDE - 2019, 1er monde virtuel des jeux Innompic 2020 \n \n Investisseur, mentor de projet et accélérateur de la plateforme numérique http://businesschain.io \n \n Professeur du Département d'entrepreneuriat innovant de l'Institut des affaires et de l'innovation de Saint-Pétersbourg." ,
+        "honorary2":"MEMBRE D'HONNEUR",
+        "member3":"HE Laila Rahhall",
+        "text3" : "Femme d'affaires résidant à Dubaï - Ambassadrice de bonne volonté des EAU. \n \n Ambassadeur de la paix. \n \n FAAVM organisation canadienne. \n \n Conseiller spécial du Président du Conseil Arabo-Africain pour l'Intégration et le Développement / CAAID. \n \n Vice-président du magazine Voice Middle East. \n \n Propriétaire du service Zamzam à Brême, en Allemagne. \n \n Fondateur et propriétaire de Business Gate pour le site international Businessgate.org - Businessgatway.ae \n \n Co-fondateur et partenaire de Macan FUEL et du commerce de produits pétroliers. \n \n Vice-président de la société Diva Production aux USA Bureau de représentation de la chambre de commerce brésilienne marocaine africaine. \n \n Président de l'association wen empowerment with Anwar. \n \n Vice-président de l'organisation REFAI en Suisse.",
+        "honorary3":"MEMBRE D'HONNEUR"
+    },
+
+    "human":{
+        "title":"Formation Être Humain",
+        "title1":"Introduction",
+        "text1":"Une seule percée technologique a déclenché la révolution industrielle qui a changé le monde.\n \n En conséquence, le système éducatif mondial a ensuite été créé pour nourrir les employés des travailleurs répétitifs et axés sur les processus, mais aussi des emplois de cols blancs. \n \n Le rôle des écoles aux collèges aux universités était de former des connaissances par cœur. Sa récompense pour avoir réussi un examen était de mémoriser davantage pour passer un autre examen. \n \n Des compétences humaines, c'est ce qu'on nous a donné. Issu de votre famille, de vos amis, de votre environnement et façonné par les innombrables petits succès et échecs que nous avons accumulés au cours de la vie. Par accident, pas intentionnellement, nous avons tiré le meilleur parti de ce que la vie nous a donné. \n \n Les capacités humaines, notre IDENTITÉ, 'qui nous nous connaissons, ce dont nous nous savons capables' n'a jamais été quelque chose auquel nous avons pensé. \n \n Il ne nous est jamais vraiment venu à l'esprit que nous pouvions CRÉER, CHOISIR, FORMER l'identité que nous VOULONS et mieux nous servir.",
+        "title2":"Vivre avec des machines",
+        "text2": "Les machines fabriquées par l'homme assument de plus en plus des tâches auparavant effectuées par des machines humaines. Notez que l'automatisation des processus robotiques (RPA) est l'une des industries à la croissance la plus rapide et UIPath est impliqué dans l'une des plus grandes introductions en bourse de logiciels de l'histoire. \n \n Et à mesure que les RPA évoluent, de plus en plus de tâches pouvant être traitées et répliquées sont menacées et susceptibles de disparaître. \n \n Personne ne sait exactement comment le monde va se développer, mais il est certain que les grandes entreprises nationales et multinationales DOIVENT recycler leur main-d'œuvre « plus âgée » existante. \n \n Et les nouvelles entreprises de nouvelles technologies à croissance exponentielle recruteront la nouvelle main-d'œuvre plus jeune. \n \n Quelles compétences essentielles sont nécessaires pour survivre et prospérer dans l'industrie 4.0 ? En général, il existe deux capacités principales qui peuvent être utilisées séparément ou combinées. Le premier est des compétences 'difficiles' étroites et profondes. Le second est un ensemble de « soft skills » humaines. \n \n L'humain doit s'inventer ou se réinventer pour faire ce que les machines ne peuvent pas faire. \n \n Et voici le hic. Jusqu'à présent, les gens ont rarement été capables de CRÉER. SÉLECTIONNER. FORMER leur identité. vos qualités humaines.",
+        "title3":"Ce que les machines ne peuvent pas faire",
+        "text3":"Ils ne peuvent pas imaginer l'avenir, la narration, la collaboration, l'utilisation d'outils, le multitâche, la connexion de points déconnectés sont cinq traits humains uniques que les robots ne peuvent pas reproduire. \n \n De plus, voici quelques-unes des compétences spécifiques requises pour cette période :",
+        "skill1": "Résoudre des problèmes complexes",
+        "skill2": "Esprit critique",
+        "skill3": "La créativité",
+        "skill4": "Ressources humaines",
+        "skill5": "Collaboration avec d'autres",
+        "skill6": "Intelligence émotionnelle",
+        "skill7": "Jugement et prise de décisions",
+        "skill8": "Orientation service",
+        "title4":"La 4e révolution industrielle",
+        "text4":"Cette ère est marquée par de nombreuses technologies de rupture, Ai, AR, VR, Deep Learning, 5G, IOT, Impression 3D, Nanomatériaux pour n'en citer que quelques-unes. Et bon nombre de ces nouvelles technologies sont combinées pour créer des industries entièrement nouvelles. \n \n Le rythme du changement sera comme nous n'en avons jamais vu auparavant. Un rythme exponentiel dans de nombreux domaines de la vie et des affaires. \n \n Le monde de Covid et d'une pandémie, où la vie telle que nous la connaissons a cessé et où la 'vérité' a été difficile à trouver, est susceptible de se répéter d'une manière ou d'une autre. \n \n Ce sera comme vivre dans une vague australienne de Rip Curl 24/7.",
+        "title5":"Formation ÊTRE HUMAIN",
+        "text5":"C'est la maison de l'éducation et de la formation des compétences identitaires, douces et humaines. \n \n Pas en suivant l'approche d'Anthony Robins avec des actions massives, mais en prenant de petites actions répétées chaque jour, en étant 'mal à l'aise', en attendant 1% supplémentaire pour que l'intérêt composé se déclenche, en acquérant des connaissances, puis en prenant cette nouvelle compétence jusqu'à un jour que vous maîtrisez 'devenir l'entraînement'. \n \n La pression est l'amie de la capacité humaine. Comment la PRESSION crée un diamant. C'est ainsi que la PRESSION peut former SOI. La plupart des entraîneurs et entraîneurs expérimentés ont appris leur métier en entraînant leurs élèves à la compétition. Premièrement, les entraîneurs de Be Human sont issus du monde individuel du tennis. \n \n Mais à l'avenir, cela s'étendra à d'autres sports, sports d'équipe, art, musique et danse car ces passions forment toutes une personne différente. \n \n Les experts, psychologues, extérieurs au monde des 'passions' sont également les bienvenus. \n \n Pour Be Human, peut-être pour la première fois, permettre aux humains de CRÉER, CHOISIR et FORMER qui ils veulent être, comment survivre et prospérer dans une ère gérée par la machine est puissant.",
+        "declaration":"«Les percées les plus excitantes du 21e siècle ne se produiront pas à cause de la technologie, mais à cause d'un concept en expansion de ce que signifie être humain»",
+        "autor":"John Naisbitt"
+    },
+
+    "blog":{
+        "title":"Nouvelles",
+        "text1":"Prochainement"
+    },
+
+    "events":{
+        "title":"Événements",
+        "text1":"Prochainement"
+    },
+
+    "footer":{
+        "text1":"@Association Eubulie. PTA – C/Marie Curier, 3 (2º - 5) 29590 Malaga – Spain. \n \n All rights reserved."
+    }
+
+
+
+
+
+    
+}
