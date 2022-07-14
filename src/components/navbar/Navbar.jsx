@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../assets/logo2.png';
+import logo from '../../assets/logo.png';
 import './navbar.css';
 import { useTranslation } from "react-i18next";
 
@@ -61,10 +61,10 @@ export default function Navbar(){
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
           <p><a className="gpt3__navbar-links_button" href="#home">HOME</a></p>
-          <p><a className="gpt3__navbar-links_button" href="#wgpt3">ABOUT US</a></p>
-          <p><a className="gpt3__navbar-links_button" href="#possibility">HOW WE WORK</a></p>
-          <p><a className="gpt3__navbar-links_button" href="#features">HONORARY MEMBERS</a></p>
-          <p><a className="gpt3__navbar-links_button" href="#blog">BE HUMAN</a></p>
+          <p><a className="gpt3__navbar-links_button" href="#aboutUs">ABOUT US</a></p>
+          <p><a className="gpt3__navbar-links_button" href="#how">HOW WE WORK</a></p>
+          <p><a className="gpt3__navbar-links_button" href="#honorary">HONORARY MEMBERS</a></p>
+          <p><a className="gpt3__navbar-links_button" href="#human">BE HUMAN</a></p>
           <p><a className="gpt3__navbar-links_button" href="#blog">EVENTS</a></p>
           <p><a className="gpt3__navbar-links_button" href="#blog">NEWS</a></p>
           <p><a className="gpt3__navbar-links_button" href="#blog">CONTACT AND IMPRESSUM</a></p>

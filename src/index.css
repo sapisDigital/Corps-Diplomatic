@@ -5,7 +5,7 @@
   --font-family-bold: 'Lato', sans-serif;
 
   --gradient-text: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%);
+  --gradient-bar: linear-gradient(135deg, rgba(11,42,100,1) 0%, rgba(41,125,199,1) 66%, rgba(144,220,247,1) 100%);
   
   --color-bg: #F6FDFF;
   --color-title: #0B2A64;
@@ -18,4 +18,5 @@
   --color-box1: #90DCF7;
   --color-box2: #297DC7;
   --color-border: #1C5A80;
+
 }
